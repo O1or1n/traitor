@@ -65,3 +65,4 @@ If the machine you're attempting privesc on cannot reach GitHub to download the 
 # Доп изменение 1
 # Доп изменение 2
 # Доп изменение 3
+# Последнее изменение 1
